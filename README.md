@@ -30,7 +30,7 @@
   ✨ Funcionalidades
 </h2>
 
-* **Responsividade:** Layout totalmente adaptado a desktops, tablets e smartphones.
+* **Responsividade:** Layout totalmente adaptado a desktops, notebooks, tablets e smartphones.
 * **Navegação Intuitiva:** Menu de navegação claro e um botão "Voltar ao Topo" para uma experiência de usuário fluida.
 *   **Seções Informativas:**
     *   **Sobre:** Conta a história da academia, criando uma conexão com o visitante.
