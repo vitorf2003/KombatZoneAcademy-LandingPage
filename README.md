@@ -21,7 +21,7 @@
   front-end e entregar uma solução de mercado.
 </p>
 
-  **Observação:** O código neste repositório foi adaptado com informações fictícias para demonstração pública em meu portfólio.
+  **Observação:** O código neste repositório foi adaptado com informações fictícias para demonstração pública em meu portfólio.<br>
   **Link para o Site real:** https://www.ctfightclub.site
 
 <br>
